@@ -1,1 +1,2 @@
 this is test.txt
+Create a new branch is quick AND simple.
